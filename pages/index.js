@@ -5,7 +5,7 @@ import {
   Feedback,
   GetStarted,
   Hero,
-  Insights,
+  // Insights,
   WhatsNew,
   World,
 } from '../sections';
