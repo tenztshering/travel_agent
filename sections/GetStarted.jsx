@@ -21,9 +21,9 @@ const GetStarted = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/images/Apple iPhone 11 Pro.png"
+          src="https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/317298550_883684326405836_5064519511098061662_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=wo1bzQoyGuMAX_1vcIF&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdRpsQuYJXe4K8DLIRLQNjBhECqIQq1Vh6R3mgLFiMmDTg&oe=63BF5A6E"
           alt="get-started"
-          className="w-[50%] h-[50%] object-contain"
+          className="w-[80%] h-[80%] object-contain"
         />
       </motion.div>
       <motion.div

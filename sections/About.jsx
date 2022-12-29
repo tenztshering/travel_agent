@@ -20,7 +20,7 @@ const About = () => (
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
+        className="mt-[8px] font-normal sm:text-[25px] text-[18px] text-center text-secondary-white"
       >
         All the 20 districts in{' '}
         <span className="font-extrabold text-white">Bhutan</span> are accessible

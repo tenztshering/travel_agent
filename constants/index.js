@@ -1,27 +1,31 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/images/tshechu.JPG',
+    id: 'bhutan-1',
+    imgUrl:
+      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316176429_1112656369441844_526574313993123666_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=L3pIUkor4awAX_6kXXv&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdR1dCVnABcw8Rbd0HWiikyjC5AyXVDzZRWg0GUmg97d5w&oe=63BF7D46',
     title: 'Festival Tour package',
   },
   {
-    id: 'world-2',
-    imgUrl: '/images/masagang.jpg',
+    id: 'bhutan-2',
+    imgUrl:
+      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316241402_539158528107898_7888063685118648892_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qoLkRafQK6MAX-vIHQ6&_nc_oc=AQns-BRr17hHB8UfiXix4rBH8hZ9zJRljH3eM_dSKTkNJet0Cg46y_M888HDXESsO5Q&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdQeLVVOUUsXcPwRjow4xbYHyW0ioKIbiuKpB_8KGkzORw&oe=63BF83F3',
     title: 'Cultural Tour package',
   },
   {
-    id: 'world-3',
+    id: 'bhutan-3',
     imgUrl: '/images/bird.jpg',
     title: 'Nature Tour package',
   },
   {
-    id: 'world-4',
-    imgUrl: '/images/mountains.jpg',
+    id: 'bhutan-4',
+    imgUrl:
+      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316148982_493584786087326_476803268415020276_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2ar92DQf1-gAX-i_eRK&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdQtHRoJyM7kKr_UL9aIfNPV_ho1RVzwgQJdjGCJ3_v93Q&oe=63BF6D30',
     title: 'Trekking Tour package',
   },
   {
-    id: 'world-5',
-    imgUrl: '/images/headofbuddha.jpg',
+    id: 'bhutan-5',
+    imgUrl:
+      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/317576564_564322008837837_4362377592469814897_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E8mUGoh8kxgAX-xYG_M&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdQfPS3Kw3sOECYkrx0fHMmAsBST4CWLr6HY25l5kw8UOw&oe=63BF891E',
     title: 'Luxury Tour package',
   },
 ];
@@ -82,5 +86,11 @@ export const socials = [
   {
     name: 'facebook',
     url: '/facebook.svg',
+  },
+];
+
+export const cultural = [
+  {
+    title: '7-days tour pack',
   },
 ];

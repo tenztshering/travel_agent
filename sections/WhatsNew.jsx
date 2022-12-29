@@ -20,7 +20,7 @@ const WhatsNew = () => (
         variants={fadeIn('right', 'tween', 0.2, 1)}
         className="flex-[0.95] flex justify-center flex-col"
       >
-        <TypingText title="| Whats new?" />
+        <TypingText title="| Whats do we need?" />
         <TitleText title={<>What's the process for onboard?</>} />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
@@ -34,9 +34,9 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/images/Apple iPhone 11 Pro.png"
+          src="http://www.doat.gov.bt/wp-content/uploads/2019/04/DrukAirBus-1024x483.jpg"
           alt="get-started"
-          className="w-[50%] h-[50%] object-contain"
+          className="w-[90%] h-[90%] object-contain"
         />
       </motion.div>
     </motion.div>

@@ -16,11 +16,11 @@ const Feedback = () => (
     >
       <motion.div
         variants={fadeIn('right', 'tween', 0.2, 1)}
-        className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+        className="flex-[0.5] lg:max-w-[370px] flex  flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
       >
         <div className="feedback-gradient" />
         <div>
-          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
+          <h4 className="font-bold sm:text-[22px] text-[16px] sm:leading-[40.32px] leading-[36.32px] text-white">
             NICHOLAS AND LEA
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
@@ -28,7 +28,7 @@ const Feedback = () => (
           </p>
         </div>
 
-        <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
+        <p className="mt-[20px] font-normal sm:text-[18px] text-[15px] sm:leading-[45.6px] leading-[39.6px] text-white">
           "It was our second visit to Bhutan. This time we chose Mahaboddhi
           Tours . We were not so impressed during our first visit with another
           company. Our experience with Mahaboddhi Tours was superb. Karma was
@@ -38,8 +38,54 @@ const Feedback = () => (
           Mahaboddhi Tours for anyone visiting Bhutan. They are the best."
         </p>
       </motion.div>
-
       <motion.div
+        variants={fadeIn('right', 'tween', 0.2, 1)}
+        className="flex-[0.5] lg:max-w-[370px] flex  flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+      >
+        <div className="feedback-gradient" />
+        <div>
+          <h4 className="font-bold sm:text-[22px] text-[16px] sm:leading-[40.32px] leading-[36.32px] text-white">
+            CHRISTINE AND BILL
+          </h4>
+          <p className="mt-[8px] font-normal sm:text-[18px] text-[15px] sm:leading-[22.68px] leading-[16.68px] text-white">
+            UNITED STATES OF AMERICA
+          </p>
+        </div>
+
+        <p className="mt-[20px] font-normal sm:text-[18px] text-[15px] sm:leading-[45.6px] leading-[39.6px] text-white">
+          "Our guide, Ngawang, was professional. He had thorough knowledge on
+          every trekking route in Bhutan. He has thorough knowledge on the
+          country and her culture. Organization was perfect. We did Jomolhari
+          trek which was strenuous and challenging but it was worth our effort.
+          Trekking cooks and pony boys put on their genuine smiles on their
+          faces every time. This has added beauty to our adventure and made it a
+          special moment to remember in our hearts. We recommend Mahaboddhi
+          Tours to all."
+        </p>
+      </motion.div>
+      <motion.div
+        variants={fadeIn('right', 'tween', 0.2, 1)}
+        className=" flex-[0.5] lg:max-w-[370px] flex  flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+      >
+        <div className="feedback-gradient" />
+        <div>
+          <h4 className="font-bold sm:text-[22px] text-[16px] sm:leading-[40.32px] leading-[36.32px] text-white">
+            GABRIELE AND WILLI
+          </h4>
+          <p className="mt-[8px] font-normal sm:text-[18px] text-[15px] sm:leading-[22.68px] leading-[16.68px] text-white">
+            AUSTRIA
+          </p>
+        </div>
+
+        <p className="mt-[20px] font-normal sm:text-[18px] text-[15px] sm:leading-[45.6px] leading-[39.6px] text-white">
+          "We have enjoyed in your beautiful country and definitely I will
+          recommend my friends to visit Bhutan at least once in a life time.
+          Thank you Mahaboddhi Tours for making our stay in Bhutan a very
+          special moment."
+        </p>
+      </motion.div>
+
+      {/* <motion.div
         variants={fadeIn('left', 'tween', 0.2, 1)}
         className="relative flex-1 flex justify-center items-center"
       >
@@ -59,7 +105,7 @@ const Feedback = () => (
             className="w-[155px] h-[155px] object-contain"
           />
         </motion.div>
-      </motion.div>
+      </motion.div> */}
     </motion.div>
   </section>
 );
