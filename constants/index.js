@@ -63,7 +63,7 @@ export const insights = [
       'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: 'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
+    imgUrl: 'https://diplomatmagazine.eu/wp-content/uploads/national_day_of-bhutan.jpg',
     title: 'Events and Festivals in Bhutan',
     subtitle:
       'Find Events and festivals held in different region',
