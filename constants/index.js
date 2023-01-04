@@ -51,22 +51,22 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: 'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316153678_931749311143614_7338446555739296390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=TbZZOsU8gCcAX-OKFtl&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdR2pc1Aa6tDln3JQO3t6GbwhYb_DJ_0D5vuqQREYGPEHw&oe=63DD2665',
+    title: 'Find the most popular and interesting places',
     subtitle:
-      'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'The immense culture in Bhutan',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: 'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
+    title: 'Popular hotels in Bhutan',
     subtitle:
       'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: 'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
+    title: 'Events and Festivals in Bhutan',
     subtitle:
-      'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      'Find Events and festivals held in different region',
   },
 ];
 
