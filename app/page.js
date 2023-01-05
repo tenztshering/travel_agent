@@ -9,7 +9,6 @@ import {
   WhatsNew,
   World,
 } from '../sections';
-import { ThemeProvider } from 'styled-components';
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">

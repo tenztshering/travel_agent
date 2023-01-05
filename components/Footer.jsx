@@ -5,7 +5,6 @@ import { socials } from '../constants';
 import styles from '../styles';
 import { footerVariants } from '../utils/motion';
 import dynamic from 'next/dynamic';
-const ChatBot = dynamic(import('./ChatBotWrapper'), { ssr: false });
 
 const Footer = () => (
   <motion.footer
