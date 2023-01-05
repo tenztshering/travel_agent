@@ -85,7 +85,7 @@ export const socials = [
   },
   {
     name: 'facebook',
-    url: '/facebook.svg',
+    url: 'https://www.facebook.com/weydzer',
   },
 ];
 
