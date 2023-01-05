@@ -42,7 +42,7 @@ const Footer = () => (
             MAHABODDHI TOURS
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Mahaboddhi. All rights reserved.
+            Copyright © 2023 Mahaboddhi. All rights reserved.
           </p>
 
           <div className="flex gap-4">
