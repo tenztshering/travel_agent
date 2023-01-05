@@ -13,19 +13,19 @@ export const exploreWorlds = [
   },
   {
     id: 'bhutan-3',
-    imgUrl: '/images/bird.jpg',
+    imgUrl:
+      'https://www.littlebhutan.com/wp-content/uploads/2013/08/Takin-in-Takin-Preserve-Thimphu-Zoo.jpg',
     title: 'Nature Tour package',
   },
   {
     id: 'bhutan-4',
     imgUrl:
-      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316148982_493584786087326_476803268415020276_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2ar92DQf1-gAX-i_eRK&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdQtHRoJyM7kKr_UL9aIfNPV_ho1RVzwgQJdjGCJ3_v93Q&oe=63BF6D30',
+      'https://images.squarespace-cdn.com/content/v1/5d6d7b108a0acc00018e94fc/1567520475491-TI8CDAGD9H5M8F3OLBLP/IMG_0456.jpg',
     title: 'Trekking Tour package',
   },
   {
     id: 'bhutan-5',
-    imgUrl:
-      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/317576564_564322008837837_4362377592469814897_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E8mUGoh8kxgAX-xYG_M&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdQfPS3Kw3sOECYkrx0fHMmAsBST4CWLr6HY25l5kw8UOw&oe=63BF891E',
+    imgUrl: 'https://i.ytimg.com/vi/Uxx3D9WRE68/maxresdefault.jpg',
     title: 'Luxury Tour package',
   },
 ];
@@ -41,11 +41,13 @@ export const newFeatures = [
     imgUrl: '/eye.png',
     title: 'Visa process',
     subtitle: 'we have full visa processing details and documentations',
+    link: 'https://visit.doi.gov.bt/help/faq',
   },
   {
     imgUrl: '/vrpano.svg',
     title: 'Travel requirements',
     subtitle: 'The requirements as per our years of experience',
+    link: '',
   },
 ];
 
