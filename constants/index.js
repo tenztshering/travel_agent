@@ -51,22 +51,27 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: 'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316153678_931749311143614_7338446555739296390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=TbZZOsU8gCcAX-OKFtl&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdR2pc1Aa6tDln3JQO3t6GbwhYb_DJ_0D5vuqQREYGPEHw&oe=63DD2665',
-    title: 'Find the most popular and interesting places',
-    subtitle:
-      'The immense culture in Bhutan',
+    imgUrl:
+      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316153678_931749311143614_7338446555739296390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=TbZZOsU8gCcAX-OKFtl&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdR2pc1Aa6tDln3JQO3t6GbwhYb_DJ_0D5vuqQREYGPEHw&oe=63DD2665',
+    title: 'Find what is happening in Bhutan',
+    subtitle: 'Tourism related news feeds',
+    site: 'https://www.tourism.gov.bt/news',
   },
+
   {
-    imgUrl: 'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
+    imgUrl:
+      'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
     title: 'Popular hotels in Bhutan',
     subtitle:
-      'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      'Hotels in Bhutan are quite unique from both exterior and interior',
+    site: 'https://www.tourism.gov.bt/hotels',
   },
   {
-    imgUrl: 'https://diplomatmagazine.eu/wp-content/uploads/national_day_of-bhutan.jpg',
+    imgUrl:
+      'https://diplomatmagazine.eu/wp-content/uploads/national_day_of-bhutan.jpg',
     title: 'Events and Festivals in Bhutan',
-    subtitle:
-      'Find Events and festivals held in different region',
+    subtitle: 'Find Events and festivals held in different region',
+    site: 'https://www.tourism.gov.bt/events',
   },
 ];
 

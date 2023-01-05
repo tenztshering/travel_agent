@@ -4,6 +4,8 @@ import { motion } from 'framer-motion';
 import { socials } from '../constants';
 import styles from '../styles';
 import { footerVariants } from '../utils/motion';
+import dynamic from 'next/dynamic';
+const ChatBot = dynamic(import('./ChatBotWrapper'), { ssr: false });
 
 const Footer = () => (
   <motion.footer
@@ -28,7 +30,9 @@ const Footer = () => (
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white"><a href="mailto:jigmeyooedzer@gmail.com">Send Email</a></span>
+          <span className="font-normal text-[16px] text-white">
+            <a href="mailto:jigmeyooedzer@gmail.com">Send Email</a>
+          </span>
         </button>
       </div>
 
