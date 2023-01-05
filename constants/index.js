@@ -62,8 +62,7 @@ export const insights = [
     imgUrl:
       'https://lh4.googleusercontent.com/Ze9DH79TTVb5fvX2Tv0tmvQyumUeEBTRZ9trF83V6o3w12rWi1p_oEBL2uKiT-dAguS3k3Ttd9iKNbB-JW71MqyWKKxvd463Pna03dRt2ro5HI_M9tUhHSGKKs-DloaxZCqffN2K',
     title: 'Popular hotels in Bhutan',
-    subtitle:
-      'Hotels in Bhutan are quite unique from both exterior and interior',
+    subtitle: 'Hotels in Bhutan are quite unique from both exterior and ',
     site: 'https://www.tourism.gov.bt/hotels',
   },
   {
@@ -79,18 +78,22 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: '',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: '',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: '',
   },
   {
     name: 'facebook',
-    url: 'https://www.facebook.com/weydzer',
+    url: '/facebook.svg',
+    link: 'https://www.facebook.com/weydzer',
   },
 ];
 
