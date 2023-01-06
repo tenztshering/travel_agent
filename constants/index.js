@@ -90,7 +90,7 @@ export const socials = [
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: '',
+    link: 'https://www.instagram.com/yoedzer96/',
   },
   {
     name: 'facebook',
