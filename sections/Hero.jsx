@@ -35,17 +35,17 @@ const Hero = () => (
         {/* <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" /> */}
 
         <img
-          src="/images/tshechu.JPG"
+          src="https://s.greattibettour.com/photos/2020/11/punakha-dzong-10-18097.jpg"
           alt="hero_cover"
-          className="w-full sm:h-[500px] h-[350px] w-[400%] object-cover z-10 relative"
+          className="w-full sm:h-[500px] w-full object-cover z-10 relative"
         />
 
         <a href="#explore">
           <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10">
             <img
-              src="/images/bhutanlogo.png"
+              src="/images/Mahaboddhi travel.png"
               alt="stamp"
-              className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
+              className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain rounded-full"
             />
           </div>
         </a>
