@@ -45,7 +45,7 @@ const Hero = () => (
             <img
               src="/images/Mahaboddhi travel.png"
               alt="stamp"
-              className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain rounded-full"
+              className="sm:w-[155px] w-[70px] sm:h-[155px] h-[70px] object-contain rounded-full"
             />
           </div>
         </a>

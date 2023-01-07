@@ -19,7 +19,7 @@ const Navbar = () => (
       <img
         src="/images/Mahaboddhi travel.png"
         alt="search"
-        className="lg:w-[200px] object-fill w-[100px] rounded-full"
+        className="lg:w-[200px] object-fill w-[80px] rounded-full"
       />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
         MAHABODDHI TOURS

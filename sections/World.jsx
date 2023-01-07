@@ -33,16 +33,17 @@ const World = () => (
         <img
           src="/map.png"
           alt="map"
-          className=" w-full h-100vh object-cover -mt-[80px] "
+          className="w-full h-100vh object-cover -mt-[80px] overflow-y-visible"
+          loading="lazy"
         />
 
-        <div className="absolute bottom-40 right-20 w-[70px] h-[70px] p-[6px] rounded-full">
+        {/* <div className="absolute bottom-40 right-20 w-[70px] h-[70px] p-[6px] rounded-full">
           <img
             src="/images/bhutanpointer.png"
             alt="people"
             className="w-full h-full"
           />
-        </div>
+        </div> */}
 
         {/* <div className="absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
           <img
@@ -52,13 +53,13 @@ const World = () => (
           />
         </div> */}
 
-        <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full">
+        {/* <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full">
           <img
             src="/images/bhutanpointer.png"
             alt="Bhutam Map"
             className="w-full h-full"
           />
-        </div>
+        </div> */}
       </motion.div>
     </motion.div>
   </section>
