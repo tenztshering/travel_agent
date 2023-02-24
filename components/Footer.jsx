@@ -28,7 +28,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            <a href="mailto:jigmeyooedzer@gmail.com">Send Email</a>
+            <a href="mailto:mahaboddhe2010@gmail.com">Send Email</a>
           </span>
         </button>
       </div>
