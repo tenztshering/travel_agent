@@ -54,7 +54,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl:
-      'https://scontent.fpbh1-1.fna.fbcdn.net/v/t1.15752-9/316153678_931749311143614_7338446555739296390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=TbZZOsU8gCcAX-OKFtl&_nc_ht=scontent.fpbh1-1.fna&oh=03_AdR2pc1Aa6tDln3JQO3t6GbwhYb_DJ_0D5vuqQREYGPEHw&oe=63DD2665',
+      'http://www.switch-asia.eu/site/assets/files/2434/resizes/shine_photo_01.jpg',
     title: 'Find what is happening in Bhutan',
     subtitle: 'Tourism related news feeds',
     site: 'https://www.tourism.gov.bt/news',
